@@ -16,6 +16,36 @@
 		DD31DB721F73A10800E091B3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DD31DB711F73A10800E091B3 /* main.m */; };
 		DD31DB7C1F73A10800E091B3 /* Xcode8Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = DD31DB7B1F73A10800E091B3 /* Xcode8Tests.m */; };
 		DD31DB871F73A10800E091B3 /* Xcode8UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = DD31DB861F73A10800E091B3 /* Xcode8UITests.m */; };
+		DDEE532220464B7A00129FDD /* WechatIMG28.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE532120464B7A00129FDD /* WechatIMG28.png */; };
+		DDEE53412046528A00129FDD /* 微信图片_20180228105405_1.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE53242046528900129FDD /* 微信图片_20180228105405_1.png */; };
+		DDEE53422046528A00129FDD /* 微信图片_20180228105405_2.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE53252046528900129FDD /* 微信图片_20180228105405_2.png */; };
+		DDEE53432046528A00129FDD /* 微信图片_20180228105405_3.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE53262046528900129FDD /* 微信图片_20180228105405_3.png */; };
+		DDEE53442046528A00129FDD /* 微信图片_20180228105405_4.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE53272046528900129FDD /* 微信图片_20180228105405_4.png */; };
+		DDEE53452046528A00129FDD /* 微信图片_20180228105405_5.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE53282046528900129FDD /* 微信图片_20180228105405_5.png */; };
+		DDEE53462046528A00129FDD /* 微信图片_20180228105405_6.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE53292046528900129FDD /* 微信图片_20180228105405_6.png */; };
+		DDEE53472046528A00129FDD /* 微信图片_20180228105405_7.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE532A2046528900129FDD /* 微信图片_20180228105405_7.png */; };
+		DDEE53482046528A00129FDD /* 微信图片_20180228105405_8.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE532B2046528900129FDD /* 微信图片_20180228105405_8.png */; };
+		DDEE53492046528A00129FDD /* 微信图片_20180228105405_9.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE532C2046528900129FDD /* 微信图片_20180228105405_9.png */; };
+		DDEE534A2046528A00129FDD /* 微信图片_20180228105405_10.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE532D2046528900129FDD /* 微信图片_20180228105405_10.png */; };
+		DDEE534B2046528A00129FDD /* 微信图片_20180228105405_11.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE532E2046528900129FDD /* 微信图片_20180228105405_11.png */; };
+		DDEE534C2046528A00129FDD /* 微信图片_20180228105405_12.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE532F2046528900129FDD /* 微信图片_20180228105405_12.png */; };
+		DDEE534D2046528A00129FDD /* 微信图片_20180228105405_13.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE53302046528900129FDD /* 微信图片_20180228105405_13.png */; };
+		DDEE534E2046528A00129FDD /* 微信图片_20180228105405_14.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE53312046528900129FDD /* 微信图片_20180228105405_14.png */; };
+		DDEE534F2046528A00129FDD /* 微信图片_20180228105405_15.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE53322046528900129FDD /* 微信图片_20180228105405_15.png */; };
+		DDEE53502046528A00129FDD /* 微信图片_20180228105405_16.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE53332046528900129FDD /* 微信图片_20180228105405_16.png */; };
+		DDEE53512046528A00129FDD /* 微信图片_20180228105405_17.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE53342046528900129FDD /* 微信图片_20180228105405_17.png */; };
+		DDEE53522046528A00129FDD /* 微信图片_20180228105405_18.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE53352046528900129FDD /* 微信图片_20180228105405_18.png */; };
+		DDEE53532046528A00129FDD /* 微信图片_20180228105405_19.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE53362046528900129FDD /* 微信图片_20180228105405_19.png */; };
+		DDEE53542046528A00129FDD /* 微信图片_20180228105405_20.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE53372046528900129FDD /* 微信图片_20180228105405_20.png */; };
+		DDEE53552046528A00129FDD /* 微信图片_20180228105405_21.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE53382046528900129FDD /* 微信图片_20180228105405_21.png */; };
+		DDEE53562046528A00129FDD /* 微信图片_20180228105405_22.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE53392046528900129FDD /* 微信图片_20180228105405_22.png */; };
+		DDEE53572046528A00129FDD /* 微信图片_20180228105405_23.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE533A2046528900129FDD /* 微信图片_20180228105405_23.png */; };
+		DDEE53582046528A00129FDD /* 微信图片_20180228105405_24.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE533B2046528900129FDD /* 微信图片_20180228105405_24.png */; };
+		DDEE53592046528A00129FDD /* 微信图片_20180228105405_25.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE533C2046528900129FDD /* 微信图片_20180228105405_25.png */; };
+		DDEE535A2046528A00129FDD /* 微信图片_20180228105405_26.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE533D2046528900129FDD /* 微信图片_20180228105405_26.png */; };
+		DDEE535B2046528A00129FDD /* 微信图片_20180228105405_27.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE533E2046528900129FDD /* 微信图片_20180228105405_27.png */; };
+		DDEE535C2046528A00129FDD /* 微信图片_20180228105405_28.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE533F2046528900129FDD /* 微信图片_20180228105405_28.png */; };
+		DDEE535D2046528A00129FDD /* 微信图片_20180228105405_29.png in Resources */ = {isa = PBXBuildFile; fileRef = DDEE53402046528900129FDD /* 微信图片_20180228105405_29.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +83,36 @@
 		DD31DB821F73A10800E091B3 /* Xcode8UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Xcode8UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD31DB861F73A10800E091B3 /* Xcode8UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Xcode8UITests.m; sourceTree = "<group>"; };
 		DD31DB881F73A10900E091B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DDEE532120464B7A00129FDD /* WechatIMG28.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WechatIMG28.png; sourceTree = "<group>"; };
+		DDEE53242046528900129FDD /* 微信图片_20180228105405_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_1.png"; sourceTree = "<group>"; };
+		DDEE53252046528900129FDD /* 微信图片_20180228105405_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_2.png"; sourceTree = "<group>"; };
+		DDEE53262046528900129FDD /* 微信图片_20180228105405_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_3.png"; sourceTree = "<group>"; };
+		DDEE53272046528900129FDD /* 微信图片_20180228105405_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_4.png"; sourceTree = "<group>"; };
+		DDEE53282046528900129FDD /* 微信图片_20180228105405_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_5.png"; sourceTree = "<group>"; };
+		DDEE53292046528900129FDD /* 微信图片_20180228105405_6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_6.png"; sourceTree = "<group>"; };
+		DDEE532A2046528900129FDD /* 微信图片_20180228105405_7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_7.png"; sourceTree = "<group>"; };
+		DDEE532B2046528900129FDD /* 微信图片_20180228105405_8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_8.png"; sourceTree = "<group>"; };
+		DDEE532C2046528900129FDD /* 微信图片_20180228105405_9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_9.png"; sourceTree = "<group>"; };
+		DDEE532D2046528900129FDD /* 微信图片_20180228105405_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_10.png"; sourceTree = "<group>"; };
+		DDEE532E2046528900129FDD /* 微信图片_20180228105405_11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_11.png"; sourceTree = "<group>"; };
+		DDEE532F2046528900129FDD /* 微信图片_20180228105405_12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_12.png"; sourceTree = "<group>"; };
+		DDEE53302046528900129FDD /* 微信图片_20180228105405_13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_13.png"; sourceTree = "<group>"; };
+		DDEE53312046528900129FDD /* 微信图片_20180228105405_14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_14.png"; sourceTree = "<group>"; };
+		DDEE53322046528900129FDD /* 微信图片_20180228105405_15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_15.png"; sourceTree = "<group>"; };
+		DDEE53332046528900129FDD /* 微信图片_20180228105405_16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_16.png"; sourceTree = "<group>"; };
+		DDEE53342046528900129FDD /* 微信图片_20180228105405_17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_17.png"; sourceTree = "<group>"; };
+		DDEE53352046528900129FDD /* 微信图片_20180228105405_18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_18.png"; sourceTree = "<group>"; };
+		DDEE53362046528900129FDD /* 微信图片_20180228105405_19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_19.png"; sourceTree = "<group>"; };
+		DDEE53372046528900129FDD /* 微信图片_20180228105405_20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_20.png"; sourceTree = "<group>"; };
+		DDEE53382046528900129FDD /* 微信图片_20180228105405_21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_21.png"; sourceTree = "<group>"; };
+		DDEE53392046528900129FDD /* 微信图片_20180228105405_22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_22.png"; sourceTree = "<group>"; };
+		DDEE533A2046528900129FDD /* 微信图片_20180228105405_23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_23.png"; sourceTree = "<group>"; };
+		DDEE533B2046528900129FDD /* 微信图片_20180228105405_24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_24.png"; sourceTree = "<group>"; };
+		DDEE533C2046528900129FDD /* 微信图片_20180228105405_25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_25.png"; sourceTree = "<group>"; };
+		DDEE533D2046528900129FDD /* 微信图片_20180228105405_26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_26.png"; sourceTree = "<group>"; };
+		DDEE533E2046528900129FDD /* 微信图片_20180228105405_27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_27.png"; sourceTree = "<group>"; };
+		DDEE533F2046528900129FDD /* 微信图片_20180228105405_28.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_28.png"; sourceTree = "<group>"; };
+		DDEE53402046528900129FDD /* 微信图片_20180228105405_29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信图片_20180228105405_29.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,8 +167,10 @@
 				DD31DB601F73A10800E091B3 /* AppDelegate.m */,
 				DD31DB621F73A10800E091B3 /* ViewController.h */,
 				DD31DB631F73A10800E091B3 /* ViewController.m */,
+				DDEE53232046528900129FDD /* images */,
 				DD31DB651F73A10800E091B3 /* Main.storyboard */,
 				DD31DB6B1F73A10800E091B3 /* Assets.xcassets */,
+				DDEE532120464B7A00129FDD /* WechatIMG28.png */,
 				DD31DB6D1F73A10800E091B3 /* LaunchScreen.storyboard */,
 				DD31DB701F73A10800E091B3 /* Info.plist */,
 				DD31DB711F73A10800E091B3 /* main.m */,
@@ -133,6 +195,42 @@
 				DD31DB881F73A10900E091B3 /* Info.plist */,
 			);
 			path = Xcode8UITests;
+			sourceTree = "<group>";
+		};
+		DDEE53232046528900129FDD /* images */ = {
+			isa = PBXGroup;
+			children = (
+				DDEE53242046528900129FDD /* 微信图片_20180228105405_1.png */,
+				DDEE53252046528900129FDD /* 微信图片_20180228105405_2.png */,
+				DDEE53262046528900129FDD /* 微信图片_20180228105405_3.png */,
+				DDEE53272046528900129FDD /* 微信图片_20180228105405_4.png */,
+				DDEE53282046528900129FDD /* 微信图片_20180228105405_5.png */,
+				DDEE53292046528900129FDD /* 微信图片_20180228105405_6.png */,
+				DDEE532A2046528900129FDD /* 微信图片_20180228105405_7.png */,
+				DDEE532B2046528900129FDD /* 微信图片_20180228105405_8.png */,
+				DDEE532C2046528900129FDD /* 微信图片_20180228105405_9.png */,
+				DDEE532D2046528900129FDD /* 微信图片_20180228105405_10.png */,
+				DDEE532E2046528900129FDD /* 微信图片_20180228105405_11.png */,
+				DDEE532F2046528900129FDD /* 微信图片_20180228105405_12.png */,
+				DDEE53302046528900129FDD /* 微信图片_20180228105405_13.png */,
+				DDEE53312046528900129FDD /* 微信图片_20180228105405_14.png */,
+				DDEE53322046528900129FDD /* 微信图片_20180228105405_15.png */,
+				DDEE53332046528900129FDD /* 微信图片_20180228105405_16.png */,
+				DDEE53342046528900129FDD /* 微信图片_20180228105405_17.png */,
+				DDEE53352046528900129FDD /* 微信图片_20180228105405_18.png */,
+				DDEE53362046528900129FDD /* 微信图片_20180228105405_19.png */,
+				DDEE53372046528900129FDD /* 微信图片_20180228105405_20.png */,
+				DDEE53392046528900129FDD /* 微信图片_20180228105405_22.png */,
+				DDEE53382046528900129FDD /* 微信图片_20180228105405_21.png */,
+				DDEE533A2046528900129FDD /* 微信图片_20180228105405_23.png */,
+				DDEE533B2046528900129FDD /* 微信图片_20180228105405_24.png */,
+				DDEE533C2046528900129FDD /* 微信图片_20180228105405_25.png */,
+				DDEE533D2046528900129FDD /* 微信图片_20180228105405_26.png */,
+				DDEE533E2046528900129FDD /* 微信图片_20180228105405_27.png */,
+				DDEE533F2046528900129FDD /* 微信图片_20180228105405_28.png */,
+				DDEE53402046528900129FDD /* 微信图片_20180228105405_29.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -241,9 +339,39 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DDEE53502046528A00129FDD /* 微信图片_20180228105405_16.png in Resources */,
+				DDEE53552046528A00129FDD /* 微信图片_20180228105405_21.png in Resources */,
+				DDEE53432046528A00129FDD /* 微信图片_20180228105405_3.png in Resources */,
+				DDEE53582046528A00129FDD /* 微信图片_20180228105405_24.png in Resources */,
+				DDEE535B2046528A00129FDD /* 微信图片_20180228105405_27.png in Resources */,
+				DDEE53522046528A00129FDD /* 微信图片_20180228105405_18.png in Resources */,
+				DDEE53442046528A00129FDD /* 微信图片_20180228105405_4.png in Resources */,
 				DD31DB6F1F73A10800E091B3 /* LaunchScreen.storyboard in Resources */,
+				DDEE532220464B7A00129FDD /* WechatIMG28.png in Resources */,
+				DDEE534F2046528A00129FDD /* 微信图片_20180228105405_15.png in Resources */,
+				DDEE534E2046528A00129FDD /* 微信图片_20180228105405_14.png in Resources */,
+				DDEE535D2046528A00129FDD /* 微信图片_20180228105405_29.png in Resources */,
+				DDEE53472046528A00129FDD /* 微信图片_20180228105405_7.png in Resources */,
+				DDEE535A2046528A00129FDD /* 微信图片_20180228105405_26.png in Resources */,
 				DD31DB6C1F73A10800E091B3 /* Assets.xcassets in Resources */,
+				DDEE53492046528A00129FDD /* 微信图片_20180228105405_9.png in Resources */,
+				DDEE535C2046528A00129FDD /* 微信图片_20180228105405_28.png in Resources */,
+				DDEE534D2046528A00129FDD /* 微信图片_20180228105405_13.png in Resources */,
+				DDEE53422046528A00129FDD /* 微信图片_20180228105405_2.png in Resources */,
+				DDEE534C2046528A00129FDD /* 微信图片_20180228105405_12.png in Resources */,
+				DDEE53452046528A00129FDD /* 微信图片_20180228105405_5.png in Resources */,
 				DD31DB671F73A10800E091B3 /* Main.storyboard in Resources */,
+				DDEE534B2046528A00129FDD /* 微信图片_20180228105405_11.png in Resources */,
+				DDEE53592046528A00129FDD /* 微信图片_20180228105405_25.png in Resources */,
+				DDEE53482046528A00129FDD /* 微信图片_20180228105405_8.png in Resources */,
+				DDEE53412046528A00129FDD /* 微信图片_20180228105405_1.png in Resources */,
+				DDEE53572046528A00129FDD /* 微信图片_20180228105405_23.png in Resources */,
+				DDEE534A2046528A00129FDD /* 微信图片_20180228105405_10.png in Resources */,
+				DDEE53562046528A00129FDD /* 微信图片_20180228105405_22.png in Resources */,
+				DDEE53532046528A00129FDD /* 微信图片_20180228105405_19.png in Resources */,
+				DDEE53512046528A00129FDD /* 微信图片_20180228105405_17.png in Resources */,
+				DDEE53462046528A00129FDD /* 微信图片_20180228105405_6.png in Resources */,
+				DDEE53542046528A00129FDD /* 微信图片_20180228105405_20.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -434,6 +562,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9F6EGD794U;
 				INFOPLIST_FILE = Xcode8/Info.plist;
@@ -448,6 +577,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9F6EGD794U;
 				INFOPLIST_FILE = Xcode8/Info.plist;
